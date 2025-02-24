@@ -38,6 +38,9 @@ This project is licensed under the MIT License.
 
 # Contact
  Name: Himanshu Patle
+ 
  Email: dearhimanshu3@gmail.com 
+ 
  LinkedIn: https://www.linkedin.com/in/himanshu-patle-2b563730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+ 
  GitHub: https://github.com/imanshu-01 
