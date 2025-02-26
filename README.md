@@ -1,4 +1,4 @@
-# CLONE NETFLIX DESIGN
+# CLONE NETFLIX
 
 A front-end clone of the Netflix web application, built using HTML, CSS, and JavaScript.
 
